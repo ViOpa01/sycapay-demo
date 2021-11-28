@@ -1,0 +1,6 @@
+include ':poslib-device-debug'
+include ':poslib-commons-debug'
+include ':sycapaylibrary-debug'
+include ':newland-debug'
+include ':app'
+rootProject.name = "SycapayDemo"

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="add_new_device">New device</string>
+    <string name="title_activity_bluetooth_selector_dialog">Select a bluetooth device</string>
+</resources>
